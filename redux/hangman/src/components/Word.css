@@ -1,0 +1,8 @@
+.Word {
+  height: 150px;
+}
+
+.Word-text {
+  font-size: 2em;
+  line-height: 150px;
+}
